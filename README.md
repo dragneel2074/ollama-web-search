@@ -8,8 +8,8 @@ A Retrieval-Augmented Generation (RAG) based Question Answering system for recip
 - Gradio for the web interface
 
 ## Installation
-
-1. Install Python dependencies:
+1. Python Version: Python 3.10.16
+2. Install Python dependencies:
 ```bash
 pip install -r requirements.txt
 ```
